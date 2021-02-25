@@ -21,16 +21,15 @@
 	  text-align: center;
 	  }
 	  
-    td {
-      border: 1px solid rgb(227, 221, 220);
+    th {
+      border: 1px solid rgb(191, 186, 186);
       padding: 10px 20px;
     }
 
-    th {
-      border: 1px solid rgb(227, 221, 220);
+    td {
+      border: 1px solid;
       padding: 10px 20px;
     }
-    
     
 
     td {
