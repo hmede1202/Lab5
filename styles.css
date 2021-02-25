@@ -2,13 +2,16 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>School timetable</title>
-    <style>
+	<style>
+    
     html {
       font-family: sans-serif;
     }
 
-
+	h1 {
+	  text-align: center;
+	  }
+	  
     td, th {
       border: 1px solid rgb(190,190,190);
       padding: 10px 20px;
