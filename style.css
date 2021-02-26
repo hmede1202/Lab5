@@ -1,6 +1,9 @@
 body {font-family: arial;}
 
-caption {padding: 10px;}  
+caption {
+	padding: 10px;
+	font-weight: 900;
+	}  
     
 h1 {text-align: center;}
 	  
