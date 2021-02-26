@@ -34,17 +34,14 @@
 	  }
 	  
     th {
-      border: 1px solid rgb(191, 186, 186);
+      border: 1px solid;
       padding: 10px 20px;
       }
       
     th {
-      height: 16%;
+      width="75" height="75";
       }
       
-    th {
-      width: 16%;
-      }
 
     td {
       border: 1px solid;
