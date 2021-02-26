@@ -10,7 +10,10 @@ h1 {text-align: center;}
 	  
 table {text-align: center;}
 
-#table-header {background-color: rgb(191, 186, 186)}
+#table-header {
+	background-color: rgb(191, 186, 186)
+	width: 75;
+	height: 75;
 
 	  
 th {
