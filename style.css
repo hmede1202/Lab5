@@ -12,18 +12,15 @@ th {
 	border: 1px solid;
 	padding: 10px 20px;
 	text-align: center;
-    width="75" height="75"
     background-color: rgb(191, 186, 186)
     }
     
-      
-img {width="75" height="75";}
 
 td {
+    text-align: center;
     border: 1px solid;
     padding: 10px 20px;
     background-color: rgb(233, 234, 232)
-    text-align: center;
     }
     
 
