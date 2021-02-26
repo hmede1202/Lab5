@@ -22,8 +22,8 @@ img {width="75" height="75";}
 td {
     border: 1px solid;
     padding: 10px 20px;
+    background-color: rgb(233, 234, 232)
+    text-align: center;
     }
     
-td {text-align: center;}
 
-td {background-color: rgb(233, 234, 232);}
