@@ -8,7 +8,10 @@ caption {
     
 h1 {text-align: center;}
 	  
-table {text-align: center;}
+table {
+    text-align: center;
+    width: 100%
+    }
 
 #table-header {
 	background-color: rgb(191, 186, 186)
